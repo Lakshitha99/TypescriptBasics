@@ -1,7 +1,7 @@
 # TypescriptBasics
 
 * [What is Typescript?](#What-is-Typescript)
-* [Variables] (#TypeScript-Variable)
+* [Variables](#TypeScript-Variable)
 * Data types
 * Inference 
 * Assertion
