@@ -1,6 +1,6 @@
 # TypescriptBasics
 
-* What is Typescript?
+* [What is Typescript?](#What-is-Typescript)
 * Variables 
 * Data types
 * Inference 
