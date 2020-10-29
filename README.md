@@ -48,9 +48,4 @@ Type assertion allows you to set the type of a value and tell the compiler not t
 
 (Resources : https://www.tutorialsteacher.com/)
 
-### Part 2 start
-
-...........
-
-### Part 2 end !
 
